@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "specialty": "Modern Residential",
+    "location": "New York, NY",
+    "avatar": "https://example.com/avatars/sarah.jpg",
+    "experience": "8 years",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "specialty": "Commercial Spaces",
+    "location": "San Francisco, CA",
+    "avatar": "https://example.com/avatars/michael.jpg",
+    "experience": "12 years",
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "name": "Emma Williams",
+    "specialty": "Sustainable Design",
+    "location": "Portland, OR",
+    "avatar": "https://example.com/avatars/emma.jpg",
+    "experience": "6 years",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "specialty": "Minimalist Interiors",
+    "location": "Los Angeles, CA",
+    "avatar": "https://example.com/avatars/david.jpg",
+    "experience": "5 years",
+    "rating": 4.6
+  }
+]
